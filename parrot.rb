@@ -2,5 +2,8 @@
 # returns the phrase
 
 def parrot ("name")
-  puts = parrot {"
+  puts = parrot {"Squawk!"}
  end
+ 
+ 
+parrot ("name")
