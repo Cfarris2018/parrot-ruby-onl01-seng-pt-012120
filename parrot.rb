@@ -6,4 +6,4 @@ def parrot ("name")
  end
  
  
-parrot ("name")
+parrot
